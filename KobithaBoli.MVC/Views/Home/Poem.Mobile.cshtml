@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Poem";
+}
+
+<ul data-role="listview" data-inset="true" data-theme="b" data-divider-theme="b">
+<li><a href="@Url.Action("Detail", "Poem")" >Poem 1</a>
+</li>
+ 
+ <li><a href="@Url.Action("Detail", "Poem")" >Poem 2</a>
+</li>
+</ul>
+
+<script>
+
+    $(document).bind("pagebeforeshow", function (e, data) {
+     
+    var $footers = $(document).find('div[data-role="footer"]');
+    $footers.find('a').removeClass("ui-btn-active");
+    $footers.find('a[data-name="poem"]').addClass("ui-btn-active");
+
+    });
+
+    </script>

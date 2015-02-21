@@ -1,0 +1,10 @@
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data\bin\Debug\KobithaBoli.Data.dll
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data\bin\Debug\KobithaBoli.Data.pdb
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data\obj\Debug\KobithaBoli.Data.dll
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data\obj\Debug\KobithaBoli.Data.pdb
+C:\JqueryMobile\KobithaBoli\KobithaBoli\KobithaBoli.Data\obj\Debug\KobithaBoli.Data.csprojResolveAssemblyReference.cache
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\KobithaBoli.Data.dll
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\KobithaBoli.Data.pdb
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\obj\Debug\KobithaBoli.Data.csprojResolveAssemblyReference.cache
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\obj\Debug\KobithaBoli.Data.dll
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\obj\Debug\KobithaBoli.Data.pdb

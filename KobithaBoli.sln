@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KobithaBoli.Data", "KobithaBoli.Data\KobithaBoli.Data.csproj", "{945C4A33-120E-4E1D-8451-30BB12293AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KobithaBoli.Data.Contracts", "KobithaBoli.Data.Contracts\KobithaBoli.Data.Contracts.csproj", "{6F27FAF8-91A9-4357-BC0F-F0750D6D7043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KobithaBoli.Model", "KobithaBoli.Model\KobithaBoli.Model.csproj", "{BAB1A8DE-2D09-4113-ABC7-49F9CAB25EFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KobithaBoli.MVC", "KobithaBoli.MVC\KobithaBoli.MVC.csproj", "{B995C7EC-B556-45BD-B0CB-280987B4468A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945C4A33-120E-4E1D-8451-30BB12293AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945C4A33-120E-4E1D-8451-30BB12293AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945C4A33-120E-4E1D-8451-30BB12293AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945C4A33-120E-4E1D-8451-30BB12293AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F27FAF8-91A9-4357-BC0F-F0750D6D7043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F27FAF8-91A9-4357-BC0F-F0750D6D7043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F27FAF8-91A9-4357-BC0F-F0750D6D7043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F27FAF8-91A9-4357-BC0F-F0750D6D7043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB1A8DE-2D09-4113-ABC7-49F9CAB25EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB1A8DE-2D09-4113-ABC7-49F9CAB25EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB1A8DE-2D09-4113-ABC7-49F9CAB25EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB1A8DE-2D09-4113-ABC7-49F9CAB25EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B995C7EC-B556-45BD-B0CB-280987B4468A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B995C7EC-B556-45BD-B0CB-280987B4468A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B995C7EC-B556-45BD-B0CB-280987B4468A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B995C7EC-B556-45BD-B0CB-280987B4468A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

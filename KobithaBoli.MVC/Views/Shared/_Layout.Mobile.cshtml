@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title</title> 
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/Mobile/css", "~/Content/jquerymobile/css")
+        @Scripts.Render("~/bundles/jquery", "~/bundles/jquerymobile")
+        <script>
+            $(document).ready(function () {
+                $.mobile.ajaxEnabled = false; 
+            });
+        </script>
+    </head> 
+<body> 
+
+    <div data-role="page" data-theme="a">
+        @Html.Partial("_ViewSwitcher")
+
+        <div data-role="header">
+         
+             <h2>Amar Kobitha Boli</h2>    
+          
+
+        </div>
+
+        <div data-role="content">
+            @RenderSection("featured", false)
+            @RenderBody()		
+        </div>
+
+        <div data-role="footer"  data-position="fixed">
+            <div data-role="navbar">
+            <ul>
+            <li><a data-name="home" href="@Url.Action("Index", "Home")" class="ui-btn-active ui-state-persist" data-icon="home">Home</a>
+            <li><a data-name="poem" href="@Url.Action("Poem", "Home")" data-icon="search">Poems</a>
+            <li><a data-name="about" href="@Url.Action("About", "Home")" data-icon="info">About</a>
+            <li>
+            <a id="contact" data-name="contact" href="@Url.Action("Contact", "Home")" style="text-align:center" data-icon="grid">Contact</a>
+                            </ul>
+</div>
+
+        </div>
+    </div>
+
+</body>
+</html>
