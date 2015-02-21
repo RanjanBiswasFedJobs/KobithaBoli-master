@@ -256,6 +256,10 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\KobithaBoli.Data\KobithaBoli.Data.csproj">
+      <Project>{945c4a33-120e-4e1d-8451-30bb12293ad7}</Project>
+      <Name>KobithaBoli.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\KobithaBoli.Model\KobithaBoli.Model.csproj">
       <Project>{bab1a8de-2d09-4113-abc7-49f9cab25eff}</Project>
       <Name>KobithaBoli.Model</Name>

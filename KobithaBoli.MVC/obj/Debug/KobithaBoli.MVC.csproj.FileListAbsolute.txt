@@ -51,3 +51,5 @@ C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\obj\Debug\KobithaBoli.MVC.dll
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\obj\Debug\KobithaBoli.MVC.pdb
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Model.dll
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Model.pdb
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Data.dll
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Data.pdb
