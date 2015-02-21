@@ -8,3 +8,12 @@ C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\KobithaBoli.Data.pd
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\obj\Debug\KobithaBoli.Data.csprojResolveAssemblyReference.cache
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\obj\Debug\KobithaBoli.Data.dll
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\obj\Debug\KobithaBoli.Data.pdb
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\KobithaBoli.Data.dll.config
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\EntityFramework.dll
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\KobithaBoli.Data.Contracts.dll
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\KobithaBoli.Model.dll
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\KobithaBoli.Data.Contracts.pdb
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\KobithaBoli.Model.pdb
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\EntityFramework.xml
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.Data\bin\Debug\EntityFramework.SqlServer.xml

@@ -49,3 +49,5 @@ C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\System.Web.WebPages.Razor.
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\obj\Debug\KobithaBoli.MVC.csprojResolveAssemblyReference.cache
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\obj\Debug\KobithaBoli.MVC.dll
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\obj\Debug\KobithaBoli.MVC.pdb
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Model.dll
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Model.pdb
