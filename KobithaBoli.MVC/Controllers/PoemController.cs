@@ -1,4 +1,5 @@
-﻿using System;
+﻿using KobithaBoli.Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -8,9 +9,12 @@ namespace KobithaBoli.MVC.Controllers
 {
     public class PoemController : Controller
     {
+
+        private KobithaBoliDataContext db = new KobithaBoliDataContext();
         public ActionResult Index()
         {
-            return View();
+            //Get a list of all the poems in the database
+            return View(db.Poems.ToList());
         }
 
         [HttpGet]

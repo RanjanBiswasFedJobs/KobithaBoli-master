@@ -53,3 +53,5 @@ C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Model.dll
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Model.pdb
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Data.dll
 C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\KobithaBoli.Data.pdb
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\EntityFramework.SqlServer.dll
+C:\KobithaBoli\KobithaBoli-master\KobithaBoli.MVC\bin\EntityFramework.SqlServer.xml
